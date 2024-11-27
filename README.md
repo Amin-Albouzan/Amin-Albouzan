@@ -6,7 +6,7 @@
 
 <p>Programing Language</p>
 <p >
-<img src="https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/-C-%2300599C?style=flat&logoColor=white" width="auto" height="30px"/>
 
 
 
