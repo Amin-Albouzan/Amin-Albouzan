@@ -4,7 +4,7 @@
 <h1>My Skills</h1>
 
 <div >
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width:"15px"/>
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width:"15px" height="15px"/>
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width:"15px"/>
 <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width:"15px"/>
 </div>
