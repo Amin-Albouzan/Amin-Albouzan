@@ -38,7 +38,8 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 <img src="https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white" width="auto"  height="30px" />
 
 
-<img src="https://img.shields.io/badge/javascript-%23F9E074?style=flat&logo=javascript&logoColor=white" width="auto"  height="30px" />
+<img src="https://img.shields.io/badge/javascript-%23F9E074?style=flat&logo=javascript&logoColor=white" width="auto" height="30px" />
+
 
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white"  width="auto"  height="30px"/>
 
