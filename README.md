@@ -12,7 +12,7 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 <h1 align="center">My Skills</h1>
 
 
-<p>Programing Language</p>
+<p>Programming Language</p>
 <p >
 <img src="https://img.shields.io/badge/-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
 
