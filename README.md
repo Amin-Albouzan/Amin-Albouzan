@@ -60,8 +60,6 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 <P>
 <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="auto"  height="30px"/>
 
-<img src="https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white" width="auto"  height="30px"/>
-
 <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" width="auto"  height="30px"/>
   
 </P>
