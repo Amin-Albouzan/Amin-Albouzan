@@ -2,12 +2,19 @@
 
 
 <h1>My Skills</h1>
+<br/>
 
-<div >
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width:"15px" height="15px"/>
-<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width:"15px"/>
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width:"15px"/>
-</div>
+<p align="center">
+
+<a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
+</p>
 
 <hr/>
 
