@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there👋, I'm Amin Albouzan </h2>
 
 
-<p>
+<p align="center">
 I am a software engineering student at Manisa Celal Bayar University with a strong foundation in software development. I specialize in designing dynamic websites that work seamlessly across all devices, utilizing the latest JavaScript libraries to ensure high performance and responsiveness. My focus on clean, modular code allows me to create websites that not only look great but are also scalable and efficient. I am dedicated to staying current with modern web technologies and delivering solutions that meet both user needs and industry standards.
   
 <p>
