@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white" width="300px" height:"40px"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white" width="300px" height:"25px"/>
 
 
 <img src="https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white"/>
