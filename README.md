@@ -5,19 +5,18 @@
 <br/>
 
 <p>Programing Language</p>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" width="auto" height="30px"/>
 </p>
 
-
+<br/>
 
 
 
 
 <p>Front End</p>
-
-<p align="center">
+<p>
 
 
   
@@ -39,9 +38,9 @@
 
 
 </p>
+<br/>
 
-
-<P align="center">
+<P>
 <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="auto"  height="30px"/>
 
 <img src="https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white" width="auto"  height="30px"/>
