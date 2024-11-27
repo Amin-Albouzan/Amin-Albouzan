@@ -17,6 +17,18 @@
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white" width="auto"  height="30px" />
 
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white"  width="auto"  height="30px"/>
+
+<img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" width="auto"  height="30px"/>
+
+<img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" width="auto"  height="30px"/>
+
+
+<img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="auto"  height="30px"/>
+
+<img src="https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white" width="auto"  height="30px"/>
+
+<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" width="auto"  height="30px"/>
 
 
 
