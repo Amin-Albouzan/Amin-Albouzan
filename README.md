@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" width="auto" height="30px"/>
 </p>
 
-<br/>
+
 
 
 
@@ -38,8 +38,8 @@
 
 
 </p>
-<br/>
 
+<p>Back End</p>
 <P>
 <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="auto"  height="30px"/>
 
