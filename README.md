@@ -6,7 +6,8 @@
 
 <p>Programing Language</p>
 <p >
-<img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=codio&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
+
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" width="auto" height="30px"/>
 </p>
 
