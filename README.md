@@ -1,4 +1,4 @@
-## Hi there👋, I'm Amin Albouzan 
+<h2 align="center"> Hi there👋, I'm Amin Albouzan </h2>
 
 
 <h1 align="center">My Skills</h1>
@@ -6,7 +6,7 @@
 
 <p>Programing Language</p>
 <p >
-  <img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=codio&logoColor=white" width="auto" height="30px"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" width="auto" height="30px"/>
 </p>
 
@@ -34,6 +34,7 @@
 
 <img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" width="auto"  height="30px"/>
 
+<img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=react-router&logoColor=white" width="auto" height="30px"/>
 
 
 
