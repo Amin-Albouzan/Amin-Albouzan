@@ -19,7 +19,7 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 
 
-<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="30px" height="30px"/>
+<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="70px" height="40px"/>
 </p>
 
 
