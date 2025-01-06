@@ -19,9 +19,8 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 
 
-<div style="font-size: 20px; font-weight: bold; display: inline-block;">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" alt="C# Badge">
-</div>
+<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="50px" height="30px"/>
+
 
 </p>
 
