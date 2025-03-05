@@ -64,7 +64,7 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" width="auto"  height="30px"/>
 
-<img src="https://img.shields.io/badge/ASP.NET_Core_API-%235C2D91?style=flat&logo=.net&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core_Api-%235C2D91?style=flat&logo=.net&logoColor=white" width="auto" height="30px"/>
 
 
 
