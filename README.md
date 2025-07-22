@@ -14,12 +14,12 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 <p>Programming Language</p>
 <p >
-<img src="https://img.shields.io/badge/-%2300599C?style=flat&logo=c&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/-%2300599C?style=flat&logo=c&logoColor=white" width="120px" height="60px"/>
 
 
 
 
-<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="150px" height="70px"/>
+<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="50px" height="30px"/>
 
 
 </p>
