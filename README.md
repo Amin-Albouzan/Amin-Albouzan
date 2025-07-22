@@ -14,7 +14,7 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 <p>Programming Language</p>
 <p >
-<img src="https://img.shields.io/badge/-%2300599C?style=flat&logo=c&logoColor=white" width="80px" height="40px"/>
+<img src="https://img.shields.io/badge/-%2300599C?style=flat&logo=c&logoColor=white" width="75px" height="45px"/>
 
 
 
