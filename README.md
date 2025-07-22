@@ -19,7 +19,7 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 
 
-<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="50px" height="30px"/>
+<img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" width="75px" height="45px"/>
 
 
 </p>
@@ -34,25 +34,25 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 
   
-<img src="https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white" width="75px" height="45px"/>
 
 
-<img src="https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white" width="auto"  height="30px" />
+<img src="https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white" width="75px"  height="45px" />
 
 
-<img src="https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white" width="auto" height="30px" />
+<img src="https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white" width="75px" height="45px" />
 
 
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white"  width="auto"  height="30px"/>
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white"  width="75px"  height="45px"/>
 
-<img src="https://img.shields.io/badge/React-%231572B6?style=flat&logo=react&logoColor=white" width="auto" height="30px"/>
-
-
+<img src="https://img.shields.io/badge/React-%231572B6?style=flat&logo=react&logoColor=white" width="75px" height="45px"/>
 
 
-<img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" width="auto"  height="30px"/>
 
-<img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=react-router&logoColor=white" width="auto" height="30px"/>
+
+<img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" width="75px"  height="45px"/>
+
+<img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=react-router&logoColor=white" width="75px" height="45px"/>
 
 
 
@@ -60,11 +60,11 @@ I am a software engineering student at Manisa Celal Bayar University with a stro
 
 <p>Back End</p>
 <P>
-<img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="auto"  height="30px"/>
+<img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" width="75px"  height="45px"/>
 
-<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" width="auto"  height="30px"/>
+<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" width="75px"  height="45px"/>
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-%235C2D91?style=flat&logo=.net&logoColor=white" width="auto" height="30px"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-%235C2D91?style=flat&logo=.net&logoColor=white" width="75px" height="45px"/>
 
 
 
